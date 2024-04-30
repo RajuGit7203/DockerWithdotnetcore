@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Jenkins-Docker!");
+            Console.WriteLine("Hello, Circle CI!");
         }
     }
 }
